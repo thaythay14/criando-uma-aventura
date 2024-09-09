@@ -1,0 +1,17 @@
+body { 
+    background-color: beige;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    display flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+ }
+
+ button { 
+    background-color: azure;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
